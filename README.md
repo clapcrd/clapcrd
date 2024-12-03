@@ -1,6 +1,6 @@
-- 👋 Bonjour, je suis @clapcrd
-- 👀 Je recherche un stage de 6 mois à partir du mois de mars 
-- 🌱 J'étudie actuellement le Traitement Automatique des Langues
+- 👋 Bonjour, je m'appelle Clara PICARD
+- 👀 Je recherche activement un stage de fin d'étude 
+- 🌱 Je suis en Master 2 Langue et Informatique à la Sorbonne
 
 <!---
 clapcrd/clapcrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
